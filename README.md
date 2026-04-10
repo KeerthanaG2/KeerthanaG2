@@ -8,11 +8,11 @@
 
 ## ⚡ Who Am I 
 
-> 🎓 **EEE undergrad @ AVV** building at the intersection of **Blockchain**, **IoT Security**, and **Full Stack**.
-> I write smart contracts, wire up hardware, and ship web apps — often in the same week.
-> Currently: Full Stack Intern @ AmritaCREATE · ACM Secretary · MeitY-funded researcher
+* 🎓 **EEE undergrad @ AVV** building at the intersection of **Blockchain**, **IoT Security**, and **Full Stack**
+* I write smart contracts, wire up hardware, and ship web apps — often in the same week
+* Currently: Full Stack Intern @ AmritaCREATE · ACM Secretary · MeitY-funded researcher
 <p align="center">
-  <img width="450" alt="Image" src="https://github.com/user-attachments/assets/2b1f5fa0-6d7c-44a5-b192-0e941dc1844b" />
+  <img width="400" alt="Image" src="https://github.com/user-attachments/assets/2b1f5fa0-6d7c-44a5-b192-0e941dc1844b" />
 </p>
    
 
