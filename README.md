@@ -80,19 +80,6 @@
 
 ---
 
-## 📊 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeerthanaG2&theme=tokyo-night&hide_border=true&bg_color=0B0F1A&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=2d1b4e" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeerthanaG2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F1A&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" height="160" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthanaG2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F1A&title_color=a78bfa&text_color=e2e8f0" height="160" />
-</p>
-
----
 
 ## 🌐 Let's Connect
 
